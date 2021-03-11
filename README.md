@@ -15,9 +15,11 @@ We currently have a chess data set(I am open to changing this if anyone asks, we
 
 ## Team Members
 
-- Riley: Enjoys playing chess but isnt very good.
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- **Riley**: Enjoys playing chess but isnt very good.
+---
+- **Sol**: I'm awful at chess.
+---
+- *Person 3: one sentence about you!*
 
 ## References
 
