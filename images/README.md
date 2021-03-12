@@ -1,1 +1,3 @@
-Images will be stored here.
+#### Images
+---
+**Images will be stored here.**
